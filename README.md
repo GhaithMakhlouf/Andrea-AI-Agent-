@@ -8,13 +8,14 @@
 ## 🚀 Features
 - **Autonomous Planning:** Automatically breaks down complex goals into sub-tasks.
 - **Sequential Execution:** Executes tasks one-by-one with state management.
-- **Rich Interface:** Uses ich for professional terminal output.
+- **Rich Interface:** Uses 
+ich for professional terminal output.
 - **Type Safety:** Built with pydantic for robust data handling.
 
 ## 🛠️ Installation
 
 `ash
-git clone https://github.com/GhaithMakhlouf/Andrea-.git
+git clone https://github.com/GhaithMakhlouf/Andrea-AI-Agent-
 cd Andrea-
 pip install -r requirements.txt
 `
